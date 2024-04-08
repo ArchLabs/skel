@@ -1,0 +1,4 @@
+Web Browser,exo-open --launch WebBrowser,web-browser
+File Manager,exo-open --launch FileManager,system-file-manager
+Terminal,exo-open --launch TerminalEmulator,utilities-terminal
+^sep()
